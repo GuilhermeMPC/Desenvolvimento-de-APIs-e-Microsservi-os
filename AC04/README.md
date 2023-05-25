@@ -1,8 +1,6 @@
 # Desenvolvimento-de-APIs-e-Microsserviços - AC04
 ## Grupo:
 <br>
-Aluno: Amália Emilia da Rocha Pitta  RA: 2200519<br>
-Aluno: Beatriz Borges Cantero  RA: 2202122<br>
 Aluno: Guilherme Midea Paoliello Castilho  RA: 2200770<br>
 Aluno: Gustavo Holanda Soares Santana  RA: 2200545 
 <br><br>
